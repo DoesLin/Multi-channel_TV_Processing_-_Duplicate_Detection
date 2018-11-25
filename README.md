@@ -1,1 +1,1 @@
-# Real-Time_Multi-channel_TV_Processing_with_Embedded_TNT_-TV_Tuner-_and_FFmpeg_Library
+# Real_Time_Multi_channel_TV_Processing_with_Embedded_TNT_TV_Tuner_and_FFmpeg_Library
